@@ -16,3 +16,4 @@ sudo apt install bison cdbs curl flex g++ python vim pkg-config
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git 
 ```
 这环境是真他妈难搭建
+还是用wsl好搭建一点
