@@ -17,3 +17,4 @@ git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 ```
 这环境是真他妈难搭建
 还是用wsl好搭建一点
+终于编译好了 庆祝一下
